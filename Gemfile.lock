@@ -10,7 +10,7 @@ GIT
 PATH
   remote: .
   specs:
-    jekyll-theme-mehdix-rtl (3.1.0)
+    jekyll-theme-mehdix-rtl (3.1.2)
       jekyll (>= 3.6, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-hinduarabic (~> 0.1)
@@ -26,8 +26,8 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.7.0)
-      public_suffix (>= 2.0.2, < 5.0)
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.5)
     em-websocket (0.5.1)
@@ -55,7 +55,7 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
-    jekyll-feed (0.12.1)
+    jekyll-feed (0.16.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-hinduarabic (0.1.1)
     jekyll-include-cache (0.2.0)
@@ -92,7 +92,7 @@ GEM
       ruby-nuggets (= 0.9.9)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (4.0.1)
+    public_suffix (5.0.0)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
